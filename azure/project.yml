@@ -1,0 +1,8 @@
+variables:
+  - group: status-endpoint
+  - name: service_name
+    value: organisation-data-terminology-api
+  - name: short_service_name
+    value: odta
+  - name: service_base_path
+    value: organisation-data-terminology-api
