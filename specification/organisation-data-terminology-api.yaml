@@ -2,7 +2,7 @@
 # for organisation-data-service-fhir-api owned by NHS Digital (https://digital.nhs.uk/)
 openapi: '3.0.0'
 info:
-  title: 'organisation-data-service-fhir R4-api'
+  title: 'organisation-data-terminology-api'
   version: '0.1'
   contact:
     name: 'ODS FHIR API Support'
